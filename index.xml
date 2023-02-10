@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bentley Cleaning Kelowna</title>
+    <link>https://bentleycleaningkelowna.com/</link>
+    <description>Recent content on Bentley Cleaning Kelowna</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 17 Jun 2019 23:53:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://bentleycleaningkelowna.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Contact</title>
+      <link>https://bentleycleaningkelowna.com/contact/</link>
+      <pubDate>Mon, 17 Jun 2019 23:53:00 +0100</pubDate>
+      
+      <guid>https://bentleycleaningkelowna.com/contact/</guid>
+      <description>Give me, Michael,
+a call at 647-868-9234,
+or email at sales@bentleycleaningkelowna.com</description>
+    </item>
+    
+    <item>
+      <title>What I Do</title>
+      <link>https://bentleycleaningkelowna.com/what-i-do/</link>
+      <pubDate>Mon, 17 Jun 2019 23:53:00 +0100</pubDate>
+      
+      <guid>https://bentleycleaningkelowna.com/what-i-do/</guid>
+      <description>I have over 20 years of experience in construction and food production.
+Cleaning up is half the job.
+This business is bondable and insured.</description>
+    </item>
+    
+  </channel>
+</rss>
